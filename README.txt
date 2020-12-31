@@ -1,0 +1,1 @@
+This is process of how to learn Android!
